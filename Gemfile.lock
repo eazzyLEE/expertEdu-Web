@@ -216,7 +216,7 @@ DEPENDENCIES
   spring
   spring-watcher-listen (= 2.0.0)
   sqlite3
-  stripe (= 1.48.0)
+  stripe
   turbolinks (= 5.0.0)
   tzinfo-data
   uglifier (= 3.0.0)
